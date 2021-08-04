@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sukhman-01
+- 👀 I’m interested in competitive programming, web development, digital marketing, problem solving, graphic design and video editing. 
+- 🌱 I’m currently learning Python, DSA in C++, UI/UX design, digital marketing, SEO, Adobe Illustrator, Photoshop, Premier Pro, and corel draw.
+- 📫 You can reach me at: Linkedin https://www.linkedin.com/in/sukhman-singh-901b131b6/ or mail me at sukhman0102@gmail.com.
