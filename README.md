@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sukhman-01
 - 👀 I’m interested in development, competitive programming, web development, problem solving. 
-- 🌱 I’m currently learning Java, DSA in C++, AI.
+- 🌱 I’m currently learning Java, DSA in C++, AI, OS.
 - 💻 Programming languages known: C, C++, Java, Python, SQL.
 - 🌏 Web development languages known: HTML, CSS, JavaScript.
 - 📫 You can reach me at: Linkedin https://www.linkedin.com/in/sukhman-singh-901b131b6/ or mail me at sukhman0102@gmail.com.
