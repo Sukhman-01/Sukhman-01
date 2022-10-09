@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhman-01&label=Profile%20views&color=0e75b6&style=flat" alt="sukhman-01" /> </p>
 
+- ✨ I'm a Google Cloud Certified Cloud Digital Leader (Check out my credential here: https://scq.io/GHX7tdr)
+
 - 🌱 I’m currently learning **MERN stack, Android App development using kotlin, Data Structures and Algorithms**
 
 - 📫 How to reach me at: **Linkedin https://www.linkedin.com/in/sukhman-singh-901b131b6/ or mail me at sukhman0102@gmail.com**
