@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukhman Singh</h1>
-<h3 align="center">A Full Stack Software Engineer at <a href="www.digio.in">Digio</a> with a product-first mindset, passionate about building high-impact applications. I thrive on solving complex problems, taking end-to-end ownership of features, and driving significant business value through practical technical solutions.</h3>
+<h3 align="center">A Full Stack Software Engineer at <a href="https://www.digio.in/">Digio</a> with a product-first mindset, passionate about building high-impact applications. I thrive on solving complex problems, taking end-to-end ownership of features, and driving significant business value through practical technical solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhman-01&label=Profile%20views&color=0e75b6&style=flat" alt="sukhman-01" /> </p>
 
