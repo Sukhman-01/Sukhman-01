@@ -9,7 +9,7 @@
 - Product Ownership: **Driving features from conception to deployment, ensuring a focus on user experience and business impact.**
 - Mentorship & Collaboration: **Fostering growth within teams and collaborating effectively across functions.**
 - Technical Skills: **Angular, TypeScript, Puppeteer, Puppeteer-Cluster, node.js, Java, Java Dropwizard, Spring, Spring Boot, MySQL, Tailwind CSS, AWS, GCP, FFMPEG, Git, Jenkins CI/CD**
-- 📫 How to reach me at: **Linkedin https://www.linkedin.com/in/sukhman-singh-901b131b6/ or mail me at sukhman0102@gmail.com**
+- 📫 How to reach me at: **<a href="https://www.linkedin.com/in/sukhman-singh-901b131b6/">Linkedin</a> or mail me at sukhman0102@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
